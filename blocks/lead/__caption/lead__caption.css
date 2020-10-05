@@ -1,0 +1,13 @@
+.lead__caption {
+  margin: 0;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #fff;
+  max-width: 159px;
+  max-height: 14px;
+  align-self: flex-start;
+}
