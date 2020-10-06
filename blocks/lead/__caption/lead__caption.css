@@ -8,6 +8,11 @@
   font-family: 'Inter', Arial, sans-serif;
   color: #fff;
   max-width: 159px;
-  max-height: 14px;
   align-self: flex-start;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
 }
