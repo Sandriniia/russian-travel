@@ -11,3 +11,11 @@
   margin-right: 18px;
   text-decoration-line: underline;
 }
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.1;
+    margin-top: 30px;
+  }
+}

@@ -19,3 +19,10 @@
     margin-bottom: 82px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .lead {
+    max-width: 320px;
+    margin-bottom: 64px;
+  }
+}

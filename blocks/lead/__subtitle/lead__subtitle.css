@@ -1,7 +1,6 @@
 .lead__subtitle {
   margin: 0;
   max-width: 640px;
-  max-height: 72px;
   font-family: 'Inter', Arial, sans-serif;
   color: #fff;
   font-weight: normal;
@@ -9,4 +8,12 @@
   line-height: 1.2;
   text-align: center;
   margin-bottom: 64px;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__subtitle {
+    max-width: 288px;
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
 }
