@@ -2,3 +2,7 @@
   display: flex;
   align-items: center;
 }
+
+.header__lang-links :last-child {
+  margin-right: 0;
+}

@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-left: 148px;
+  margin-left: calc((100% - 984px)/2);
   margin-bottom: 92px;
 }
 

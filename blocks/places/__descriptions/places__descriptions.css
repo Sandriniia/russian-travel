@@ -1,0 +1,13 @@
+.places__descriptions {
+  margin: 0;
+}
+
+.places__descriptions :last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .places__description {
+    margin-left: 16px;
+  }
+}
