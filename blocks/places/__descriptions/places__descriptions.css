@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .places__description {
+  .places__descriptions {
     margin-left: 16px;
   }
 }

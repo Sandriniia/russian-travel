@@ -1,6 +1,5 @@
 .places__description {
   margin: 0;
-  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -10,7 +9,7 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .places__description-one {
+  .places__description {
     font-size: 16px;
     line-height: 1.6;
   }
